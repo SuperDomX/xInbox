@@ -37,7 +37,7 @@ class xInbox extends Xengine {
 				'Date'			=>  array('Type'=>'datetime'),
 				'Subject'		=>  array('Type'=>'varchar(255)'),
 				'message'		=>  array('Type'=>'blob'),
-				'Unseen'		=>  array('Type'=>'varchar(1)','Default'=>'U')
+				//'Unseen'		=>  array('Type'=>'varchar(1)','Default'=>'U')
 			)
 		);
 	}
