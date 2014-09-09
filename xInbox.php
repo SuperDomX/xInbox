@@ -2,7 +2,7 @@
 /**
  * @name MailBox
  * @desc Allows users to send and recieve emails right from your website!
- * @version v1.0.11.03.01.08.02
+ * @version v1.1.0
  * @author cdpollard@gmail.com
  * @icon MailFront.png
  * @mini envelope
@@ -47,6 +47,21 @@ class xInbox extends Xengine {
 			$this->lib('x4/imap.php');
 		}
 	}*/
+
+	public function messages()
+	{
+		# code...
+	}
+
+	public function newMessage()
+	{
+		# code...
+	}
+
+	public function messageDetail()
+	{
+		# code...
+	}
 
 	function pm($touser,$from,$subject,$message){
 		$touser = urldecode($touser);
