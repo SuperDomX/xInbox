@@ -1,6 +1,6 @@
 <?php
 /**
- * @name MailBox
+ * @name Mailbox
  * @desc Allows users to send and recieve emails right from your website!
  * @version v1.1.0
  * @author cdpollard@gmail.com
