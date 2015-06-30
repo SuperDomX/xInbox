@@ -1,12 +1,12 @@
 <?php
 /**
  * @name Mailbox
- * @desc Allows users to send and recieve emails right from your website!
+ * @desc Read your incoming emails from one easy-to-access place.
  * @version v1.1.0
  * @author cdpollard@gmail.com
  * @icon MailFront.png
  * @mini envelope
- * @see domain
+ * @see community
  * @link inbox
  * @todo
  */
