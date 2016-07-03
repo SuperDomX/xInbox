@@ -1,14 +1,15 @@
 <?php
 /**
- * @name Mailbox
+ * @name Inbox 
  * @desc Read your incoming emails from one easy-to-access place.
  * @version v1.1.0
  * @author cdpollard@gmail.com
  * @icon MailFront.png
- * @mini envelope
+ * @mini inbox 
  * @see community
  * @link inbox
  * @todo
+ * @alpha
  */
 
 class xInbox extends Xengine {
