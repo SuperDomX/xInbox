@@ -1,11 +1,11 @@
 <?php
 /**
- * @name Inbox 
+ * @name Messages
  * @desc Read your incoming emails from one easy-to-access place.
  * @version v1.1.0
  * @author cdpollard@gmail.com
  * @icon MailFront.png
- * @mini inbox 
+ * @mini inbox
  * @see community
  * @link inbox
  * @todo
