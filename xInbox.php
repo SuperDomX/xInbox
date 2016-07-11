@@ -2,8 +2,8 @@
 /**
  * @name Messages
  * @desc Read your incoming emails from one easy-to-access place.
- * @version v1.1.0
- * @author cdpollard@gmail.com
+ * @version v0.1(160710)
+ * @author  @xopherdeep
  * @icon MailFront.png
  * @mini inbox
  * @see community
